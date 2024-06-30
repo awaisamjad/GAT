@@ -1,4 +1,4 @@
-module code/go/gat
+module github.com/awaisamjad/GAT
 
 go 1.22.4
 
